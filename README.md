@@ -7,10 +7,21 @@ I'm a self-taught beginner developer currently building apps focused on accessib
 - ✅ **Mini Task Tracker** – a productivity app using Python/JavaScript
 - 🌐 **Portfolio Site** – my first personal webpage!
 
+  ## 🔨 Projects
+
+- [🎧 Autism Sensory App](https://github.com/Eve04-11/autism-sensory-app)  
+  A calming sound tool for non-verbal kids using JavaScript
+
+- [✅ To-Do Tracker](https://github.com/Eve04-11/todo-tracker)  
+  A simple productivity app using HTML + JS  
+  👉 [Live Demo](https://eve04-11.github.io/todo-tracker/)
+
+
 💡 Learning: Python | HTML | CSS | JavaScript | Git  
 📚 Certificate: Udacity Programming Fundamentals  
 🔗 Connect with me on [LinkedIn](http://linkedin.com/in/hewan-amanuel)  
 🌱 Always learning. Always building.
+
 
 <!--
 **Eve04-11/Eve04-11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
