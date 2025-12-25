@@ -9,8 +9,8 @@ I'm a self-taught beginner developer currently building apps focused on accessib
 
   ## 🔨 Projects
   
-  [Child Interactive App](https://github.com/Eve04-11/child-interactive-app) 
-  An interactive app designed to support engagement and learning for young children.
+- [Child Interactive App](https://github.com/Eve04-11/child-interactive-app) 
+  An interactive app designed to support engagement and learning for young children
 
 - [🎧 Autism Sensory App](https://github.com/Eve04-11/autism-sensory-app)  
   A calming sound tool for non-verbal kids using JavaScript
